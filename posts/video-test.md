@@ -10,7 +10,7 @@ author: "Oleg"
 下面是我们今天刚上传的 YouTube 视频，大家可以看看我们的装车速度：
 
 <iframe 
-  className="w-full aspect-video rounded-xl shadow-lg my-8" 
+  className="w-full aspect-[3/4] rounded-xl shadow-lg my-8" 
   src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
   title="YouTube video player" 
   frameborder="0" 
