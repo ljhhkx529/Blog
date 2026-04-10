@@ -1,3 +1,10 @@
+--- Title: "Complete Guide to Rescuing Outboard Motors from Flooding: From Three-Section Structure Analysis to Drowning First Aid Practice"
+Description: "This article delves into the core logic of the 'semi-submersible' design of outboard motors, dissecting the consequences of water entering the power head through real-world Reddit cases, and providing a professional-level 'golden five minutes' rescue guide."
+Date: "2026-04-10"
+Author: "Blog Post"
+Category: "Maritime Technology"
+Tags: ["Outboard Motors", "Equipment Maintenance", "Yamaha", "Troubleshooting"，"SurfaceShop"] ---
+
 # So can an outboard motor be submerged in water?
 
 ### 1. Core Structure: Three-Section
