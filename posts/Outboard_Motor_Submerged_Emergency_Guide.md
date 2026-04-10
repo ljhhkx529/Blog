@@ -1,6 +1,8 @@
 Can an Outboard Motor Be Submerged in Water? Structure, Risks, and Emergency Guide
 Whether your motor took an accidental dip or you're curious about its limits, understanding the "half-submerged" logic of an outboard is vital. My core perspective is: The "legs" belong in the water, but the "head" must stay dry. 
+
 ![Yamaha outboard motor powerhead diagram showing cylinders and ECU../Outboard_Motor_Submerged_Emergency_Repair_Guide.webp)
+
 1. Core Structure: The Three-Stage Design
 To understand why submersion is dangerous, we must look at the three core sections of a modern outboard motor.
 
