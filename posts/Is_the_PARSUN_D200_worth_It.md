@@ -8,7 +8,7 @@ Today, we successfully delivered a **Parsun D200** diesel outboard. The customer
 
 In the demanding 200HP class, diesel power is rapidly replacing gasoline for commercial and heavy-duty use. But why is the D200 standing out? Let’s look at the data from our recent sea trials.
 
-![Inspection and Testing of Parsun D200 in Guangzhou]('../首页.webp')
+![Inspection and Testing of Parsun D200 in Guangzhou](../首页.webp)
 *Figure 1: Field inspection and testing of the Parsun D200 in Guangzhou.*
 
 ---
