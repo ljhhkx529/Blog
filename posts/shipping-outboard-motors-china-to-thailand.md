@@ -1,7 +1,7 @@
 ---
-Title: "How Long Does It Take to Ship Outboard Motors from China to Thailand? (2026 Guide)" 
-Description: "A professional breakdown of shipping outboard engines across the China-Thailand corridor. We dissect transit times, compare Air/Sea/Land freight efficiencies, and provide a masterclass in export-grade packaging and hassle-free DDP customs clearance." 
-Date: "2026-04-21" 
+title: "How Long Does It Take to Ship Outboard Motors from China to Thailand? (2026 Guide)" 
+description: "A professional breakdown of shipping outboard engines across the China-Thailand corridor. We dissect transit times, compare Air/Sea/Land freight efficiencies, and provide a masterclass in export-grade packaging and hassle-free DDP customs clearance." 
+date: "2026-04-21" 
 author: "Oleg"
 ---
 
