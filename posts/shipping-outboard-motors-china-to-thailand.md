@@ -17,7 +17,7 @@ Leveraging our dual expertise in **marine equipment trade and international logi
 
 Choosing the right transportation method depends on your urgency and budget. We offer three primary solutions:
 
-| Shipping Mode | Transit Time (Door-to-Door) | Cost Level | Best For... |
+| Shipping Mode | To Door | Cost Level | Best For... |
 | :--- | :--- | :--- | :--- |
 | **Air Freight** | **2 - 3 Days** | Premium | Urgent spare parts or lightweight components. |
 | **Land Freight** | **5 - 7 Days** | Moderate | **Recommended!** Best balance of speed and cost for outboards. |
