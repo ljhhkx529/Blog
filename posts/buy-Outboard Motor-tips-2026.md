@@ -113,6 +113,7 @@ An outboard motor is a heavy, precision-engineered machine. Trying to save $30 o
 * **Customs Detention:** Incorrect HS Codes (Harmonized System) or improper commercial invoices can lead to your cargo being seized or held indefinitely by customs. Our logistics team ensures every document is legally airtight to ensure a smooth "Green Channel" passage.
 * **Non-Legal Entity Payments:** Using "grey market" payment channels or personal accounts to avoid fees often leads to frozen funds, bank audits, and zero legal recourse if things go wrong.
 * **Safety First:** We operate through **verified corporate entities and transparent B2B payment structures.** This ensures that every cent of your investment is protected by international trade law.
+
 | Import Challenge | The Amateur Way             | olegrussian.store Advantage |
 | ------------------ | ----------------------------- | ----------------------------- |
 | Pricing          | Hidden markups & fees       | All-in transparency         |
