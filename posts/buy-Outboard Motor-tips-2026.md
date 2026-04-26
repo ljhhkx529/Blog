@@ -17,10 +17,10 @@ In the 2026 outboard motor market, the competition in the 40HP segment has evolv
 
 <div style="text-align: center; margin: 20px 0;">
     <h3 style="color: #004a99;">Watch in Action: Parsun T40 Real-World Performance</h3>
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
         <iframe 
             style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" 
-            src="https://www.youtube.com/watch?v=KyySuPTU6q0" 
+            src="https://www.youtube.com/embed/KyySuPTU6q0" 
             title="Parsun T40 Outboard Motor Test" 
             frameborder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
