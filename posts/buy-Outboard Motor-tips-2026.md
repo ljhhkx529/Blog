@@ -113,14 +113,15 @@ An outboard motor is a heavy, precision-engineered machine. Trying to save $30 o
 * **Customs Detention:** Incorrect HS Codes (Harmonized System) or improper commercial invoices can lead to your cargo being seized or held indefinitely by customs. Our logistics team ensures every document is legally airtight to ensure a smooth "Green Channel" passage.
 * **Non-Legal Entity Payments:** Using "grey market" payment channels or personal accounts to avoid fees often leads to frozen funds, bank audits, and zero legal recourse if things go wrong.
 * **Safety First:** We operate through **verified corporate entities and transparent B2B payment structures.** This ensures that every cent of your investment is protected by international trade law.
-| Import Challenge          | The "Budget" Amateur Approach                                                                                                                        | The olegrussian.store Advantage                                                                                                                            |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1. Quotation Transparency | "Bait-and-Switch" Pricing: Low initial unit price, followed by unreasonable markups for "handling," "packaging," or "documentation."                 | "All-In Transparency": Every cost is calculated upfront before you pay. No hidden fees, no "surprises" after the order is placed.                          |
-| 2. Transit Protection     | Basic Cardboard Packing: Saving \$30 by gambling that your heavy motor won't tip over or be crushed during its 30-day sea voyage.                    | Reinforced Steel/Wooden Crating: Military-grade protection for heavy models like the T40. We guarantee the motor arrives in 100% perfect condition.        |
-| 3. Port & Logistics Fees  | "The Silent Treatment": Promises ultra-low shipping, but you get hit with massive, non-transparent "Destination Charges" at your local port.         | Professional Logistics: We provide a clear breakdown of standard destination fees, ensuring you aren't held hostage by unreasonable port charges.          |
-| 4. Compliance & Customs   | Paperwork Chaos: Incorrect HS Codes and amateur invoices leading to customs seizures, long delays, or heavy fines.                                   | Expert Documentation: Every document is prepared according to international trade laws and your local customs requirements for "Green Channel" passage.    |
-| 5. Payment Security       | High-Risk Grey Channels: Requests to send funds to personal bank accounts or non-verified entities. No legal recourse and high risk of frozen funds. | Verified B2B Payments: All transactions occur between registered, legal corporate entities. Your investment is protected by international trade standards. |
-| Final Outcome             | A Ruined Afternoon: You spent hours and extra money trying to fix logistics disasters, damaged goods, or customs issues.                             | Ready to Launch: The motor arrives on time and in pristine condition. You focus on what matters: getting your boat into the water.                         |
+| Import Challenge | The Amateur Way             | olegrussian.store Advantage |
+| ------------------ | ----------------------------- | ----------------------------- |
+| Pricing          | Hidden markups & fees       | All-in transparency         |
+| Packing          | Basic cardboard (Risk)      | Reinforced Steel/Wood       |
+| Logistics        | Hidden port charges         | Clear cost breakdown        |
+| Customs          | Paperwork errors/delays     | Expert documentation        |
+| Payment          | High-risk personal accounts | Verified B2B legal          |
+| Result           | A ruined afternoon          | Ready to launch             |
+
 
 **💡 Summary for Strategic Buyers:**
 Choosing a supplier based solely on the lowest "sticker price" is often the most expensive mistake a buyer can make. At olegrussian.store, we manage the complexity of the global supply chain so that your import experience is seamless, safe, and professional.
