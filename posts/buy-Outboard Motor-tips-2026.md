@@ -1,15 +1,10 @@
 ---
-title: "2026 Outboard Motor Buying Guide: Why Your Investment Depends on These 4 Essential Factors"
-
-description: "Is a premium brand worth the markup? We deep-dive into the 2026 outboard market, analyzing Price, Maintenance, Logistics Risks, and Longevity to help you save \$2,500 without sacrificing performance."
-
-date: "2026-04-26"
-
-author: "Oleg"
-
-categories: ["Technical Analysis", "Buying Guides"]
-
-tags: ["Outboard Motors", "Parsun T40", "Yamaha vs Honda", "Importing Guide", "2026 Marine Tech"]
+title: '2026 Outboard Motor Buying Guide: Why Your Investment Depends on These 4 Factors'
+description: 'Is a premium brand worth the markup? We analyze Price, Maintenance, Logistics Risks, and Longevity to help you save $2,500 without sacrificing performance.'
+date: '2026-04-26'
+author: 'Oleg'
+categories: ['Technical Analysis', 'Buying Guides']
+tags: ['Outboard Motors', 'Parsun T40', 'Yamaha vs Honda', 'Importing Guide', '2026 Marine Tech']
 ---
 
 ## Why "Best Price" Doesn't Mean "Cheap Quality"
