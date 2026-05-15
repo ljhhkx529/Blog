@@ -5,11 +5,11 @@ date: "2026-04-22"
 author: "Oleg"
 ---
 <div style="text-align: center; margin: 20px 0;">
-    <h3 style="color: #004a99;">Watch in Action: Parsun T40 Real-World Performance</h3>
+    <h3 style="color: #004a99;">Which 200HP Diesel Outboard is Worth the Investment? A Deep Dive into the Parsun D200</h3>
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
         <iframe 
             style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" 
-            src="[https://www.youtube.com/embed/KyySuPTU6q0](https://youtu.be/ZtlzbOd9s3M)" 
+            src="[https://youtu.be/ZtlzbOd9s3M](https://youtu.be/ZtlzbOd9s3M)" 
             title="Parsun D200 Deep Dive" 
             frameborder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
